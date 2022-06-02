@@ -8,3 +8,5 @@ input.addEventListener('click', clickAlert);
 function clickAlert() {
     alert('I was clicked!');
   }
+
+addingEventListener();
